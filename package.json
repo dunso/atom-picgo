@@ -1,0 +1,28 @@
+{
+  "name": "atom-picgo",
+  "version": "0.0.0",
+  "main": "./lib/atom-picgo",
+  "description": "Atom Plugin for PicGo Uploader",
+  "keywords": [
+    "atom", "picgo", "image", "uploader"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-picgo:toggle"
+  },
+  "repository": "https://github.com/MRDGH2821/atom-picgo",
+  "author": {
+    "name": "MRDGH2821",
+    "url": "https://bit.ly/mrdgh2821"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MRDGH2821/atom-picgo/issues"
+  },
+  "homepage": "https://github.com/MRDGH2821/atom-picgo#readme",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "picgo": "^1.5.0-alpha.0"
+  }
+}
