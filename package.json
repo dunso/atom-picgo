@@ -1,10 +1,13 @@
 {
   "name": "atom-picgo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "./lib/atom-picgo",
   "description": "Atom Plugin for PicGo Uploader",
   "keywords": [
-    "atom", "picgo", "image", "uploader"
+    "atom",
+    "picgo",
+    "image",
+    "uploader"
   ],
   "activationCommands": {
     "atom-workspace": "atom-picgo:toggle"
